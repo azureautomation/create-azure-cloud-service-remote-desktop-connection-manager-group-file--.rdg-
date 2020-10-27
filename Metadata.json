@@ -1,0 +1,20 @@
+{
+    "Author": "Ian Farr [MSFT]",
+    "ContentSize": 8561,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-azure-cloud-service-remote-desktop-connection-manager-group-file-(.rdg)/master/Create-AzureServiceRdgFile.ps1",
+    "DownloadCount": 1155,
+    "Id": "Create-Azure-Service-fb6384f5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 372,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-9-11T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates a Remote Desktop Connection Manager group file (.rdg) containing all the VMs from a cloud service.Uses the Azure PowerShell cmdlets to obtain remote connectivity information for each VM in a cloud service.",
+    "Title": "Create Azure Cloud Service Remote Desktop Connection Manager Group File (.rdg)",
+    "UpdatedDate": "2016-3-17T00:00:00",
+    "Url": "https://github.com/azureautomation/create-azure-cloud-service-remote-desktop-connection-manager-group-file-(.rdg)",
+    "UserTags": "XML, Microsoft Azure, Powershell"
+}
